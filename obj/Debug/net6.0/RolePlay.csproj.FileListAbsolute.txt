@@ -1,0 +1,15 @@
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.csproj.AssemblyReference.cache
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.AssemblyInfoInputs.cache
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.AssemblyInfo.cs
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.csproj.CoreCompileInputs.cache
+C:\c_sharp\RolePlay\bin\Debug\net6.0\RolePlay.exe
+C:\c_sharp\RolePlay\bin\Debug\net6.0\RolePlay.deps.json
+C:\c_sharp\RolePlay\bin\Debug\net6.0\RolePlay.runtimeconfig.json
+C:\c_sharp\RolePlay\bin\Debug\net6.0\RolePlay.dll
+C:\c_sharp\RolePlay\bin\Debug\net6.0\RolePlay.pdb
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.dll
+C:\c_sharp\RolePlay\obj\Debug\net6.0\refint\RolePlay.dll
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.pdb
+C:\c_sharp\RolePlay\obj\Debug\net6.0\RolePlay.genruntimeconfig.cache
+C:\c_sharp\RolePlay\obj\Debug\net6.0\ref\RolePlay.dll
